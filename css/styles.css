@@ -160,12 +160,13 @@
   background-color: #ffffff;
 } */
 
-.team-item {
+/* .team-item {
+  background-color: #ffffff;
+} */
+
+.team-image {
   background-color: #ffffff;
 }
-
-/* .team-image {
-} */
 
 .team-subtitle {
   text-align: center;
