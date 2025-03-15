@@ -12,6 +12,11 @@
   cursor: pointer;
 }
 
+.button:hover,
+.button:active {
+  background-color: #4d5ae5;
+}
+
 .section-title {
   font-weight: 700;
   font-size: 36px;
