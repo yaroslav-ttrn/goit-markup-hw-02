@@ -89,9 +89,7 @@
 
 .address-list-item {
 }
-.address-list-link,
-.address-list-link:hover,
-.address-list-link:focus {
+.address-list-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
