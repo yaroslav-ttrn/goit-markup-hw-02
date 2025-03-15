@@ -12,11 +12,6 @@
   cursor: pointer;
 }
 
-.button:hover,
-.button:active {
-  background-color: #404bbf;
-}
-
 .section-title {
   font-weight: 700;
   font-size: 36px;
@@ -127,6 +122,10 @@
   background-color: #4d5ae5;
 }
 
+.hero-button:hover,
+.hero-button:active {
+  background-color: #404bbf;
+}
 /* -----------------HERO---------------- */
 
 /* -----------------BENEFITS----------------- */
