@@ -156,16 +156,14 @@
   background-color: #f4f4fd;
 }
 
-.team-list {
+/* .team-list {
+} */
+
+.team-item {
   background-color: #ffffff;
 }
 
-/* .team-item {
-  background-color: #ffffff;
-} */
-
 /* .team-image {
-  background-color: #ffffff;
 } */
 
 .team-subtitle {
