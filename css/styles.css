@@ -1,6 +1,7 @@
 .body {
   font-family: "Roboto", sans-serif;
-  color: #2e2f42;
+  color: #434455;
+  background-color: #ffffff;
 }
 
 * {
@@ -74,16 +75,16 @@
   color: #404bbf;
 }
 
-/* .address {
+.address {
+  font-style: normal;
 }
 
 .address-list {
 }
 
 .address-list-item {
-} */
-
-.address-list-link {
+}
+*/ .address-list-link {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
