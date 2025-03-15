@@ -156,9 +156,9 @@
   background-color: #f4f4fd;
 }
 
-/* .team-list {
+.team-list {
   background-color: #ffffff;
-} */
+}
 
 /* .team-item {
   background-color: #ffffff;
@@ -170,12 +170,10 @@
 
 .team-subtitle {
   text-align: center;
-  background-color: #ffffff;
 }
 
 .team-description {
   text-align: center;
-  background-color: #ffffff;
 }
 
 /* --------------------TEAM---------------------- */
